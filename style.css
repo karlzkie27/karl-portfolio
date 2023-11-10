@@ -173,7 +173,6 @@ ul li a:hover{
     padding: 25px;
     -webkit-box-reflect: below 4px
     linear(transparent 25%, rgba(0,0,0,0.35));
-    background: url(profile.png);
 }
 
 .img-area {
